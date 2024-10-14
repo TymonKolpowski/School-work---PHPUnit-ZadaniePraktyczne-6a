@@ -1,0 +1,2 @@
+Wybrałem punkt 6(A), czyli "Budowanie Formularza"
+Napisałem skrypt który pozwala generować następujące elementy html: label, button, input, form
